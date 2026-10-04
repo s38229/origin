@@ -1,2 +1,4 @@
 Name: Szymon Wawrzyniak
 University: PJATK
+hello from staging area
+Student ID: s38229
